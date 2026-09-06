@@ -7,3 +7,4 @@ sentence-transformers
 chromadb
 faiss-cpu
 scikit-learn
+langchain-groq
